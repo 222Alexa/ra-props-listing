@@ -57,3 +57,6 @@
 Необходимо отобразить данные списка предложений, используя компонент `Listing`.
 
 Используйте приложенный css-файл для стилизации.
+
+---
+[![Build status](https://ci.appveyor.com/api/projects/status/rax4v1flq1lueehf/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-props-listing/branch/main)
