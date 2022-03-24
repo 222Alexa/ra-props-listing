@@ -43,7 +43,7 @@ export default function ListItem(props) {
       <div className="item" data-id={listing_id}>
         <div className="item-image">
           <a href={url}>
-            <img src={MainImage.url_50xN} alt="preview" />
+            <img src={MainImage.url_570xN} alt="preview" />
           </a>
         </div>
         <div className="item-details">
